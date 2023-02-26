@@ -5,7 +5,7 @@ export default class NoPage extends Component {
     return (
       <div>
         <div align="center">
-          <h1>Error Content</h1>
+          <h1>Error Contentd</h1>
         </div>
       </div>
     );
